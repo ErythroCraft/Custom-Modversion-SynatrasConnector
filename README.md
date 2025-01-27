@@ -1,4 +1,4 @@
-# Custom-Modversion-SyntrasConnector
+# Custom-Modversion-SynatrasConnector
 Custom Forge build
 
 I created this custom versions of The Mod Conector by Synatra,
