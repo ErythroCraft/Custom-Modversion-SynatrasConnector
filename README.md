@@ -8,4 +8,4 @@ This is not an official build of Synatras Connector mod
 
 Created build are not supported.
 
-Can you not find your Forge Version please open an issue and I do what I can.
+Can you not find your Forge Version of you've got any problems with the installation please use the issue botton.
